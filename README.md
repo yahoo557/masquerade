@@ -1,0 +1,2 @@
+# masquerade
+Hide your tab
